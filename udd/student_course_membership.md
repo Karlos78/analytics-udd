@@ -16,6 +16,12 @@
 * [COURSE_END_DATE](#course_end_date)
 * [COHORT_ID](#cohort_id)
 
+##Notes
+
+Course Mark, Expected End Date, Cohort ID?
+
+RSNEND & ENDDATE  used twice - for withdrawals and completions.
+
 
 ##STUDENT_COURSE_MEMBERSHIP_ID
 ###Description
