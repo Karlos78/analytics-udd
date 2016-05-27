@@ -11,7 +11,9 @@
 ## NOTES:
 
 First subject for each course taken from HESA CourseSubject table - is there capability to have multiple subjects per course?
+
 INST_TIER_1 = Faculty
+
 INST_TIER_2 = Department
 
 ##COURSE_ID
