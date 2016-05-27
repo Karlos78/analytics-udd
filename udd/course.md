@@ -7,6 +7,13 @@
 * [INST_TIER_2](#inst_tier_2)
 * [INST_TIER_3](#inst_tier_3)
 
+
+## NOTES:
+
+First subject for each course taken from HESA CourseSubject table - is there capability to have multiple subjects per course?
+INST_TIER_1 = Faculty
+INST_TIER_2 = Department
+
 ##COURSE_ID
 ###Description
 The providers own ID for the course
