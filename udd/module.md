@@ -5,6 +5,10 @@
 * [MOD_CREDITS](#mod_credits)
 * [MOD_LEVEL](#mod_level)
 
+##Notes
+
+First subject taken from HESA ModuleSubject table - can we have multiple subjects per module?
+
 ##MOD_ID
 ###Description
 The unique identifier standard across SRS and LMS for the course.
