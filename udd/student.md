@@ -17,6 +17,14 @@
 * [VLE_ID](#vle_id)
 * [HUSID](#husid)
 
+##Notes
+
+To be completed:
+
+Overseas - needs to be added from SRS
+Appshib_ID - speak to RWJ
+VLE_ID - Need to identify source
+
 ##STUDENT_ID
 ###Description
 The institution's own unique identifier of the student. In the case or event of requiring to provide anonymous data for trial/ evaluation purposes with JISC, institutions should use a suitable method or algorithm (which can be reversed by that institution, for evaluation purposes thereafter) to ensure that this studentid provided is different to that actual ID held locally.
